@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/OSPIRE/OSPIRE-Unity/compare/v1.0.0...v1.0.1) (2024-06-11)
+
+
+### Bug Fixes
+
+* Update Math.cs ([48d6136](https://github.com/OSPIRE/OSPIRE-Unity/commit/48d61365a32fdab2dda1747e8d68fe20ef73ef22))
+
 # 1.0.0 (2024-06-11)
 
 
