@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/OSPIRE/OSPIRE-Unity/compare/v1.0.2...v1.0.3) (2024-06-11)
+
+
+### Bug Fixes
+
+* Update release.yml ([d873c11](https://github.com/OSPIRE/OSPIRE-Unity/commit/d873c116ca2287905ac7c5e1998b06e506e47ed5))
+
 ## [1.0.2](https://github.com/OSPIRE/OSPIRE-Unity/compare/v1.0.1...v1.0.2) (2024-06-11)
 
 
