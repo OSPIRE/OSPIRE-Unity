@@ -71,14 +71,7 @@ jobs:
         run: |
           echo Pushing Release to UPM Branch
           git commit -am "Release v${{steps.semantic.outputs.new_release_version}}"
-          git push -f -u origin upm
-
-      # Tag the UPM branch with this release
-      - name: Tag UPM Branch
-        if: steps.semantic.outputs.new_release_published == 'true'
-        run: |
-          git tag -f v${{ steps.semantic.outputs.new_release_version }} upm
-          git push -f origin --tags
+          git push -f -u origin upm      
 
       # Publish this tagged as a release
       - name: Publish New Repo Release
