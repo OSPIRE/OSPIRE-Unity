@@ -4,6 +4,20 @@
 ### Bug Fixes
 
 * init commit ([8f22ae8](https://github.com/OSPIRE/OSPIRE-Unity/commit/8f22ae83c097374eb8e3579665730c61ad10fd3f))
+* Update feature1.txt ([3955a59](https://github.com/OSPIRE/OSPIRE-Unity/commit/3955a59138353ddc9c38f295ecd03bc56eb10f1f))
+
+
+### Features
+
+* feature 2 ([a152d24](https://github.com/OSPIRE/OSPIRE-Unity/commit/a152d2459857ccc52ed5b301a2c2c3dea09e130f))
+* feature1 ([f8ce069](https://github.com/OSPIRE/OSPIRE-Unity/commit/f8ce0695b09825ef7cee082b837d5e014a57b0f0))
+
+# 1.0.0 (2024-06-11)
+
+
+### Bug Fixes
+
+* init commit ([8f22ae8](https://github.com/OSPIRE/OSPIRE-Unity/commit/8f22ae83c097374eb8e3579665730c61ad10fd3f))
 
 
 ### Features
