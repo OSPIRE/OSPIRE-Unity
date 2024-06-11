@@ -5,6 +5,18 @@
 
 * init commit ([8f22ae8](https://github.com/OSPIRE/OSPIRE-Unity/commit/8f22ae83c097374eb8e3579665730c61ad10fd3f))
 
+
+### Features
+
+* feature1 ([f8ce069](https://github.com/OSPIRE/OSPIRE-Unity/commit/f8ce0695b09825ef7cee082b837d5e014a57b0f0))
+
+# 1.0.0 (2024-06-11)
+
+
+### Bug Fixes
+
+* init commit ([8f22ae8](https://github.com/OSPIRE/OSPIRE-Unity/commit/8f22ae83c097374eb8e3579665730c61ad10fd3f))
+
 ## [1.0.1](https://github.com/onoff-engineering/IOSEF-Unity/compare/v1.0.0...v1.0.1) (2024-06-10)
 
 
