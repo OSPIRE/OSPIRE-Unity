@@ -4,6 +4,17 @@
 ### Bug Fixes
 
 * Update feature1.txt ([bbe8d47](https://github.com/OSPIRE/OSPIRE-Unity/commit/bbe8d47c4d13710308526118d6c52021a5b45b35))
+* Update release.yml ([9629ed6](https://github.com/OSPIRE/OSPIRE-Unity/commit/9629ed6d9117b481a35cc5dcf8ce4973ad96b516))
+* Update release.yml ([2976ad0](https://github.com/OSPIRE/OSPIRE-Unity/commit/2976ad0270810b6444475dec48185a961e299835))
+* Update release.yml ([ac74f20](https://github.com/OSPIRE/OSPIRE-Unity/commit/ac74f20943929901539feda80ff9053acc7f8243))
+* Update release.yml ([d873c11](https://github.com/OSPIRE/OSPIRE-Unity/commit/d873c116ca2287905ac7c5e1998b06e506e47ed5))
+
+## [1.0.3](https://github.com/OSPIRE/OSPIRE-Unity/compare/v1.0.2...v1.0.3) (2024-06-11)
+
+
+### Bug Fixes
+
+* Update feature1.txt ([bbe8d47](https://github.com/OSPIRE/OSPIRE-Unity/commit/bbe8d47c4d13710308526118d6c52021a5b45b35))
 * Update release.yml ([d873c11](https://github.com/OSPIRE/OSPIRE-Unity/commit/d873c116ca2287905ac7c5e1998b06e506e47ed5))
 
 ## [1.0.3](https://github.com/OSPIRE/OSPIRE-Unity/compare/v1.0.2...v1.0.3) (2024-06-11)
