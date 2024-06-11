@@ -1,3 +1,10 @@
+# 1.0.0 (2024-06-11)
+
+
+### Bug Fixes
+
+* init commit ([8f22ae8](https://github.com/OSPIRE/OSPIRE-Unity/commit/8f22ae83c097374eb8e3579665730c61ad10fd3f))
+
 ## [1.0.1](https://github.com/onoff-engineering/IOSEF-Unity/compare/v1.0.0...v1.0.1) (2024-06-10)
 
 
