@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/OSPIRE/OSPIRE-Unity/compare/v1.0.0...v1.0.1) (2024-06-11)
+
+
+### Bug Fixes
+
+* Update feature1.txt ([2600d12](https://github.com/OSPIRE/OSPIRE-Unity/commit/2600d12bba6c23a069a39f58dc6d0f3e70270edf))
+
 # 1.0.0 (2024-06-11)
 
 
